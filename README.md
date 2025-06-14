@@ -1,12 +1,15 @@
-# LittleOS
-Writing my own x86 Operating System which is a single tasking interrupt driven OS.
+# OS-1
+
+Learning to build a simple operating system from scratch. This is basically a vibe learning project.
+
+
+This repo was created back in feb 2023, but I never finished it. Now that I know what works best for me, I started this project again.
+
+> This is a hobby project
 
 
 
 
-#### References:
-https://littleosbook.github.io/#about-the-book
 
-https://hasinisama.medium.com/building-your-own-operating-system-980a4498104
 
-https://github.com/HasiniSama/pocketOS/tree/setup_booting_os
+
