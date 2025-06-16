@@ -1,1 +1,7 @@
-commands.txt
+build/
+*.bin
+*.img
+*.o
+*~
+.DS_Store
+EOF
