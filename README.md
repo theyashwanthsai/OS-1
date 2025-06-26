@@ -7,8 +7,13 @@ This repo was created back in feb 2023, but I never finished it. Now that I know
 
 > This is a hobby project
 
+I am learning OSdev using claude and cursor. I am also writing about it on my blog and youtube.
 
+![OS-1](./docs/os1.png)
 
+##### Links:
+- [Os Devlog Blog](https://saiyashwanth.tech/osdevlogs/root)
+- [Os Devlog Youtube](https://www.youtube.com/channel/UCCW3KygiFpX7NV5Xy2yswCA)
 
 
 
